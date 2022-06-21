@@ -1,0 +1,10 @@
+Prof: Otávio Reis
+Perkles._
+
+Video Aula
+
+https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/12607816-1128-4906-9645-cbe0f7fcc72b?back=/track/santander-bootcamp-fullstack-developer&tab=undefined&moduleId=undefined
+
+Comandos úteis do Git
+Link:
+https://gist.github.com/leocomelli/2545add34e4fec21ec16#file-git-md
