@@ -1,0 +1,9 @@
+Prof: Otávio Reis
+Perkles._
+
+Video Aula
+
+https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/014fe14a-dc5a-41ec-9965-755a79694f27?back=/track/santander-bootcamp-fullstack-developer&tab=undefined&moduleId=undefined
+
+Links:
+https://git-scm.com/
